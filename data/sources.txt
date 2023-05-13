@@ -1,0 +1,7 @@
+Data from
+https://www.kaggle.com/datasets/wordsforthewise/lending-club
+
+
+Data Dict from
+https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1
+
